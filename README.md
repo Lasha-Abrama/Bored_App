@@ -1,6 +1,6 @@
 # Bored App 🎲
 
-A simple Node.js and Express web application that fetches and displays random fun activities using the [Bored API](https://www.boredapi.com/). Whether you're alone or with friends, this app helps you fight boredom by suggesting something cool to do!
+A simple Node.js and Express web application that fetches and displays random fun activities using the Bored API. Whether you're alone or with friends, this app helps you fight boredom by suggesting something cool to do!
 
 ## 🚀 Features
 
